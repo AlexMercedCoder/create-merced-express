@@ -46,7 +46,7 @@ console.log(
 
 const jsclone = spawnSync(`npx`, [
   "degit",
-  "https://github.com/AlexMercedCoder/merced-express.git",
+  "https://github.com/AlexMercedCoder/merced-express.git#main",
   name,
 ]);
 console.log(
