@@ -2,6 +2,8 @@
 
 This is a command-line tool for generating Merced-Express Projects.
 
+*NOTE* The Merced-Express Template does use "type":"module" in it's package.json settings so may not work with older versions of node.
+
 ## Create a project
 
 `npx create-merced-express <projectname>`
